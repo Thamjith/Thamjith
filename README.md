@@ -3,7 +3,7 @@
 - 🔭 I’m working at Vanilla Networks as a Full Stack Developer
 - 🌱 Currently learning Javascript Technologies
 - 👯 I’m looking to collaborate on React Projects
-- ⚡ Fun fact: I love to play R6S
+- ❤️ In a Relationship with Stack Overflow
 
 ### Spotify Playing 🎧
 
