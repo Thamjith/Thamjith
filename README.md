@@ -1,4 +1,4 @@
-### Hi there, I'm Thamjith Thaha 👋
+### Hi there, I'm [Thamjith Thaha] 👋
 
 - 🔭 I’m working at Vanilla Networks as a Full Stack Developer
 - 🌱 Currently learning Javascript Technologies
@@ -35,5 +35,6 @@
 <br />
 
 ---
+[Thamjith Thaha]: https://thamjiththaha.com
 [instagram]: https://instagram.com/thamjith.thaha
 [linkedin]: https://linkedin.com/in/thamjith-thaha
