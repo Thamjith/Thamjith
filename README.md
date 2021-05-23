@@ -31,11 +31,11 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][instagram]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][instagram]
 
-<br/>
 ![Visitor Count](https://profile-counter.glitch.me/{Thamjith}/count.svg)
-
 
 ---
 [Thamjith Thaha]: https://thamjiththaha.com
 [instagram]: https://instagram.com/thamjith.thaha
 [linkedin]: https://linkedin.com/in/thamjith-thaha
+
+<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
