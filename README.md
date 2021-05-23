@@ -34,6 +34,7 @@
 <details>
 <summary>📊 Github Stats</summary>
 </details>
+<br/>
 ![Visitor Count](https://profile-counter.glitch.me/{Thamjith}/count.svg)
 
 
