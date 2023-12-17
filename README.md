@@ -1,6 +1,6 @@
 ### Hi there, I'm [Thamjith Thaha] 👋
 
-- 🔭 I’m working at InApp.com as a Full Stack Developer
+- 🔭 I’m working at IBM as a Full Stack Developer
 - 🌱 Currently learning Javascript Technologies
 - 👯 I’m looking to collaborate on React Projects
 
