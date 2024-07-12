@@ -1,15 +1,15 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Thamjith Thaha
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif),My name is Thamjith Thaha
 ======================================================================================================================================
 
-Software Engineer at 👁️🐝Ⓜ️
-----------------------------
+Senior Staff Software Engineer at 👁️🐝Ⓜ️
+----------------------------------------
 
-Works in an agile, collaborative environment across software architecture, understanding both front-end and back-end concerns, while specializing in the front-end. Work closely with designers to take wireframes from conception to implementation and work closely with back-end developers to ensure implemented UI code is unit tested and production-code ready. Code user interfaces, including authentication, interactions, responsive layouts, and styling. Use and contribute to the IBM Design System to implement UIs. Ensure user interfaces are accessible and enhance the performance of the application. Works in programming languages like JavaScript, Node.js and frameworks such as React, Loopback and Springboot. Skilled in UI development technologies such as HTML, CSS, JSON and API usage.
+Software engineer with 5 years of experience focused on frontend development. Skilled in building user-friendly interfaces with modern frameworks and tools. Also experienced in backend development, providing full-stack capabilities. Collaborated closely with cross-functional teams, including engineering, support, and sales, to enhance user experience and drive product initiatives.
 
 *   🌍  I'm based in Kerala, India
 *   ✉️  You can contact me at [jithuthaha8@gmail.com](mailto:jithuthaha8@gmail.com)
 *   🚀  I'm currently working on [Instana](http://www.ibm.com/products/instana?utm_content=SRCWW&p1=Search&p4=43700074852185842&p5=e&gclid=CjwKCAiA-P-rBhBEEiwAQEXhH-x8bbAITDFrgaEglUVYxUc7eulgUH5Xa_YLSy9_klEi4owd4sB-uBoCcUMQAvD_BwE&gclsrc=aw.ds)
-*   🧠  I'm learning Dropwizard
+*   🧠  I'm learning Springboot
 
 ### Skills
 
