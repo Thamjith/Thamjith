@@ -1,9 +1,12 @@
-### Thamjith Thaha
-Senior Staff Software Engineer · IBM
+# Thamjith Thaha
+**Technical lead · IBM**
+
+[![Website](https://img.shields.io/badge/thamjiththaha.com-000?style=flat&logo=google-chrome&logoColor=white)](https://thamjiththaha.com)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thamjith-thaha/)
 
 ---
 
-**5 yrs** frontend & full-stack &nbsp;·&nbsp; **Kerala**, India &nbsp;·&nbsp; **IBM Instana** · jithuthaha8@gmail.com
+**5 yrs** frontend & full-stack &nbsp;·&nbsp; **Kerala**, India &nbsp;·&nbsp; **IBM Instana** · observability
 
 ---
 
@@ -18,7 +21,3 @@ Senior Staff Software Engineer · IBM
 - building — observability features at [IBM Instana](http://www.ibm.com/products/instana)
 - learning — Spring Boot · Java microservices
 - open to — frontend & full-stack collaborations
-
----
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&hide_title=true&hide_rank=true)](https://github.com/Thamjith)
