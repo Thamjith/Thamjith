@@ -6,7 +6,7 @@
 
 ---
 
-**5 yrs** frontend & full-stack &nbsp;·&nbsp; **Kerala**, India &nbsp;·&nbsp; **IBM Instana** · observability
+**6 yrs** frontend & full-stack &nbsp;·&nbsp; **Kerala**, India &nbsp;·&nbsp; **IBM Instana** · observability
 
 ---
 
